@@ -7,5 +7,6 @@ namespace CosplayShop.Models
 {
     public class Character
     {
+        public Prop Prop { get; set; }
     }
 }

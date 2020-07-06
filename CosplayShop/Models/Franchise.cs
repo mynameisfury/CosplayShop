@@ -7,5 +7,6 @@ namespace CosplayShop.Models
 {
     public class Franchise
     {
+        public Character Character { get; set; }
     }
 }
