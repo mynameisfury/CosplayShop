@@ -10,6 +10,11 @@ namespace CosplayShop.Models
     {
         [Key]
         public int ID { get; set; }
+        public string PropName { get; set; }
+        public Franchise FranchiseName { get; set; }
+        public Character CharacterName { get; set; }
+        public long Price { get; set; }
+
 
     }
 }
