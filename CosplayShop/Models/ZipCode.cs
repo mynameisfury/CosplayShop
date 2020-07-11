@@ -7,5 +7,6 @@ namespace CosplayShop.Models
 {
     public class ZipCode
     {
+        public int Zip { get; set; }
     }
 }

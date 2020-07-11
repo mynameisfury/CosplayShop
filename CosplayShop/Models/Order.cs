@@ -9,7 +9,7 @@ namespace CosplayShop.Models
     public class Order
     {
         [Key]
-        public int ID { get; set; }
+        public Guid ID { get; set; }
         public User User { get; set; }
 
         public long Subtotal { get; set; }
