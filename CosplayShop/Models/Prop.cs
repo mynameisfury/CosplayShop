@@ -14,6 +14,7 @@ namespace CosplayShop.Models
         public Franchise FranchiseName { get; set; }
         public Character CharacterName { get; set; }
         public long Price { get; set; }
+        public List<Tag> Tags { get; set; }
 
 
     }
