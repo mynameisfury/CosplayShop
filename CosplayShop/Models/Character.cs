@@ -10,5 +10,6 @@ namespace CosplayShop.Models
         public string Name { get; set; }
         public string Description { get; set; }
         public Prop Prop { get; set; }
+        public List<Tag> Tags { get; set; }
     }
 }
