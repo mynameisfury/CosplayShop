@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mynameisfury\\GitHub_Projects\\CosplayShop\\CosplayShop-Core\\CosplayShop-Core.csproj",
+      "projectUniqueName": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CosplayShop\\CosplayShop-Core\\CosplayShop-Core.csproj",
       "projectName": "CosplayShop-Core",
-      "projectPath": "D:\\mynameisfury\\GitHub_Projects\\CosplayShop\\CosplayShop-Core\\CosplayShop-Core.csproj",
+      "projectPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CosplayShop\\CosplayShop-Core\\CosplayShop-Core.csproj",
       "packagesPath": "C:\\Users\\mynameisfury\\.nuget\\packages\\",
-      "outputPath": "D:\\mynameisfury\\GitHub_Projects\\CosplayShop\\CosplayShop-Core\\obj\\",
+      "outputPath": "C:\\Users\\mynameisfury\\Documents\\Desktop\\GitHubProjects\\CosplayShop\\CosplayShop-Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
